@@ -23,7 +23,7 @@ Our web-based [PHP installer](installation/) can check if you meet the requireme
   * MySQL 5.0+
   * PostgreSQL 8.3+ (requires ["postgresql" module](http://silverstripe.org/postgresql-module))
   * SQL Server 2008+ (requires ["mssql" module](http://silverstripe.org/microsoft-sql-server-database/))
-  * Support for [Oracle](http://www.silverstripe.org/oracle-database-module/) and [SQLite](http://silverstripe.org/sqlite-database/) is not commercially supported, but is under development by our open source community.
+  * Support for [Oracle](https://www.oracle.com/index.html) and [SQLite](http://silverstripe.org/sqlite-database/) is not commercially supported, but is under development by our open source community.
  * One of the following web server products: 
   * Apache 2.0+ with mod_rewrite and "AllowOverride All" set
   * IIS 7+
@@ -40,11 +40,11 @@ SilverStripe 3.6 or greater will work with PHP 7.0 and 7.1. SilverStripe 3.5 or 
 
 ## Web server hardware requirements
 
-Hardware requirements vary widely depending on the traffic to your website, the complexity of its logic (i.e., PHP), and
-its size (i.e., database.) By default, all pages are dynamic, and thus access both the database and execute PHP code to
+Hardware requirements vary widely depending on the traffic to your website, the complexity of its logic (i.e. PHP), and
+its size (i.e. database.) By default, all pages are dynamic, and thus access both the database and execute PHP code to
 generate. SilverStripe can cache full pages and segments of templates to dramatically increase performance.
 
-A typical website page on a conservative single CPU machine (e.g., Intel 2Ghz) takes roughly 300ms to generate. This
+A typical website page on a conservative single CPU machine (e.g. Intel 2Ghz) takes roughly 300ms to generate. This
 comfortably allows over a million page views per month. Caching and other optimisations can improve this by a factor of
 ten or even one hundred times. SilverStripe CMS can be used in multiple-server architectures to improve scalability and
 redundancy.
@@ -61,5 +61,5 @@ systems.
 
 SilverStripe CMS is designed to make excellent, standards-compliant websites that are compatible with a wide range of
 industry standard browsers and operating systems. A competent developer is able to produce websites that meet W3C
-guidelines for HTML, CSS, JavaScript, and accessibility, in addition to meeting specific guide lines, such as
+guidelines for HTML, CSS, JavaScript, and accessibility, in addition to meeting specific guidelines, such as
 e-government requirements.
