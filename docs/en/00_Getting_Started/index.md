@@ -25,7 +25,7 @@ To run SilverStripe on Linux/Unix, set up one of the following web servers:
 
 ### Windows
 
-The most straightforward way to get SilverStripe running on Windows is with the [Microsoft Web Platform installer](installation/other_installation_options/windows_platform_installer).  You can skip the "getting the code" step.
+The most straightforward way to get SilverStripe running on Windows is with the [Microsoft Web Platform installer](https://www.microsoft.com/web/downloads/platform.aspx).  You can skip the "getting the code" step.
 
 For more flexibility, you can set up either of the following web servers, and use Composer to get the code:
 
