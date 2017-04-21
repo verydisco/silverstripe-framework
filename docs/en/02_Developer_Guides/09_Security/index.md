@@ -1,4 +1,4 @@
-summary: This guide covers user authentication, the permission system and how to secure your code against malicious behaviors
+summary: This guide covers user authentication, the permission system and how to secure your code against malicious behaviors.
 
 # Security and User Authentication
 
